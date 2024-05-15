@@ -26,3 +26,11 @@ Users can visualize the paths found in the maze.
 - Run using : `java -cp bin View.java`
 
 ## Screenshots
+### Blank screen to solve path
+![maze1](https://github.com/adityapandey1111/mazesolver/assets/114282369/35a7bb29-da93-4750-b21d-e7eb0597de5e)
+
+### Shortest path solution
+![maze3](https://github.com/adityapandey1111/mazesolver/assets/114282369/1a04dbb6-94db-4f65-ad82-eeba0a3e8b0f)
+
+### Longest path solution
+![maze2](https://github.com/adityapandey1111/mazesolver/assets/114282369/45d10b11-bc4e-4d66-80e0-56662cfa2037)
